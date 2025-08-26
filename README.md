@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maham Waseem</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate About Building Modern Web Apps</h3>
+<h3 align="center"> MERN Stack Developer | Passionate About Building Modern Web Apps</h3>
 
 ---
 
